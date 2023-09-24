@@ -1,0 +1,105 @@
+2023-08-27 11:34:58.415 [info] Getting Manifest... tomi.xajssnippets
+2023-08-27 11:34:59.868 [info] Installing extension: tomi.xajssnippets
+2023-08-27 11:35:02.707 [info] Extension signature verification is not done: tomi.xajssnippets
+2023-08-27 11:35:02.811 [info] Extracted extension to /home/kelper/.vscode-oss/extensions/.cb6dd377-4820-4d47-a6e7-048a060d8b90: tomi.xajssnippets
+2023-08-27 11:35:02.822 [info] Renamed to /home/kelper/.vscode-oss/extensions/tomi.xajssnippets-1.2.0-universal
+2023-08-27 11:35:02.830 [info] Extracting extension completed. tomi.xajssnippets
+2023-08-27 11:35:02.912 [info] Extension installed successfully: tomi.xajssnippets
+2023-08-27 11:35:10.917 [info] Getting Manifest... vue.volar
+2023-08-27 11:35:11.254 [info] Installing extension: vue.volar
+2023-08-27 11:35:15.740 [info] Extension signature verification is not done: vue.volar
+2023-08-27 11:35:16.376 [info] Extracted extension to /home/kelper/.vscode-oss/extensions/.396d403e-7a9f-45c4-a51e-213b699d3b1c: vue.volar
+2023-08-27 11:35:16.393 [info] Renamed to /home/kelper/.vscode-oss/extensions/vue.volar-1.8.8-universal
+2023-08-27 11:35:16.404 [info] Extracting extension completed. vue.volar
+2023-08-27 11:35:16.434 [info] Extension installed successfully: vue.volar
+2023-08-27 11:35:34.376 [info] Getting Manifest... znck.vue
+2023-08-27 11:35:35.533 [info] Installing extension: znck.vue
+2023-08-27 11:35:38.432 [info] Extension signature verification is not done: znck.vue
+2023-08-27 11:35:38.743 [info] Extracted extension to /home/kelper/.vscode-oss/extensions/.1e3ac79f-90a8-47b3-bfa9-152ec03a32d8: znck.vue
+2023-08-27 11:35:38.768 [info] Renamed to /home/kelper/.vscode-oss/extensions/znck.vue-0.12.0-universal
+2023-08-27 11:35:38.789 [info] Extracting extension completed. znck.vue
+2023-08-27 11:35:38.811 [info] Extension installed successfully: znck.vue
+2023-08-27 11:35:57.136 [info] Getting Manifest... ecmel.vscode-html-css
+2023-08-27 11:35:58.371 [info] Installing extension: ecmel.vscode-html-css
+2023-08-27 11:36:01.085 [info] Extension signature verification is not done: ecmel.vscode-html-css
+2023-08-27 11:36:01.161 [info] Extracted extension to /home/kelper/.vscode-oss/extensions/.7ea9ed8e-3d44-4efb-90a2-0ad24c01d7c9: ecmel.vscode-html-css
+2023-08-27 11:36:01.172 [info] Renamed to /home/kelper/.vscode-oss/extensions/ecmel.vscode-html-css-1.13.1-universal
+2023-08-27 11:36:01.177 [info] Extracting extension completed. ecmel.vscode-html-css
+2023-08-27 11:36:01.200 [info] Extension installed successfully: ecmel.vscode-html-css
+2023-08-27 11:36:20.832 [info] Getting Manifest... bradgashler.htmltagwrap
+2023-08-27 11:36:21.145 [info] Installing extension: bradgashler.htmltagwrap
+2023-08-27 11:36:29.476 [info] Getting Manifest... formulahendry.auto-rename-tag
+2023-08-27 11:36:30.685 [info] Installing extension: formulahendry.auto-rename-tag
+2023-08-27 11:36:34.061 [info] Extension signature verification is not done: formulahendry.auto-rename-tag
+2023-08-27 11:36:34.392 [info] Extracted extension to /home/kelper/.vscode-oss/extensions/.d2a484e9-b9ef-44d7-a327-568bd5f5f4cb: formulahendry.auto-rename-tag
+2023-08-27 11:36:34.404 [info] Renamed to /home/kelper/.vscode-oss/extensions/formulahendry.auto-rename-tag-0.1.10-universal
+2023-08-27 11:36:34.410 [info] Extracting extension completed. formulahendry.auto-rename-tag
+2023-08-27 11:36:34.439 [info] Extension installed successfully: formulahendry.auto-rename-tag
+2023-08-27 11:36:42.131 [info] Extension signature verification is not done: bradgashler.htmltagwrap
+2023-08-27 11:36:42.747 [info] Extracted extension to /home/kelper/.vscode-oss/extensions/.b97ae792-da44-4f8f-ab38-eb988f9443d6: bradgashler.htmltagwrap
+2023-08-27 11:36:42.764 [info] Renamed to /home/kelper/.vscode-oss/extensions/bradgashler.htmltagwrap-1.0.0-universal
+2023-08-27 11:36:42.780 [info] Extracting extension completed. bradgashler.htmltagwrap
+2023-08-27 11:36:42.836 [info] Extension installed successfully: bradgashler.htmltagwrap
+2023-08-27 11:36:52.788 [info] Getting Manifest... esbenp.prettier-vscode
+2023-08-27 11:36:53.835 [info] Installing extension: esbenp.prettier-vscode
+2023-08-27 11:36:55.629 [info] Getting Manifest... ritwickdey.liveserver
+2023-08-27 11:36:55.935 [info] Installing extension: ritwickdey.liveserver
+2023-08-27 11:36:58.132 [info] Extension signature verification is not done: esbenp.prettier-vscode
+2023-08-27 11:36:58.255 [info] Getting Manifest... formulahendry.auto-close-tag
+2023-08-27 11:36:58.579 [info] Installing extension: formulahendry.auto-close-tag
+2023-08-27 11:37:01.726 [info] Extracted extension to /home/kelper/.vscode-oss/extensions/.34c24172-9c7b-4558-8143-15b6ab3890bb: esbenp.prettier-vscode
+2023-08-27 11:37:01.743 [info] Renamed to /home/kelper/.vscode-oss/extensions/esbenp.prettier-vscode-10.1.0-universal
+2023-08-27 11:37:01.758 [info] Extracting extension completed. esbenp.prettier-vscode
+2023-08-27 11:37:01.809 [info] Extension installed successfully: esbenp.prettier-vscode
+2023-08-27 11:37:04.166 [info] Getting Manifest... octref.vetur
+2023-08-27 11:37:04.225 [info] Extension signature verification is not done: formulahendry.auto-close-tag
+2023-08-27 11:37:04.559 [info] Extracted extension to /home/kelper/.vscode-oss/extensions/.56b56cdc-a7f5-45f4-9fe4-e93800001f0d: formulahendry.auto-close-tag
+2023-08-27 11:37:04.579 [info] Renamed to /home/kelper/.vscode-oss/extensions/formulahendry.auto-close-tag-0.5.14-universal
+2023-08-27 11:37:04.580 [info] Extracting extension completed. formulahendry.auto-close-tag
+2023-08-27 11:37:04.615 [info] Installing extension: octref.vetur
+2023-08-27 11:37:04.858 [info] Extension installed successfully: formulahendry.auto-close-tag
+2023-08-27 11:37:10.050 [info] Extension signature verification is not done: ritwickdey.liveserver
+2023-08-27 11:37:10.093 [info] Getting Manifest... ms-vscode.live-server
+2023-08-27 11:37:10.656 [info] Installing extension: ms-vscode.live-server
+2023-08-27 11:37:16.969 [info] Extension signature verification is not done: ms-vscode.live-server
+2023-08-27 11:37:17.559 [info] Extracted extension to /home/kelper/.vscode-oss/extensions/.93d1c11e-aeb3-4013-8458-4f8d9dac9f69: ms-vscode.live-server
+2023-08-27 11:37:17.599 [info] Renamed to /home/kelper/.vscode-oss/extensions/ms-vscode.live-server-0.4.8-universal
+2023-08-27 11:37:17.630 [info] Extracting extension completed. ms-vscode.live-server
+2023-08-27 11:37:17.757 [info] Extension installed successfully: ms-vscode.live-server
+2023-08-27 11:37:25.640 [info] Getting Manifest... yandeu.five-server
+2023-08-27 11:37:25.984 [info] Installing extension: yandeu.five-server
+2023-08-27 11:37:41.705 [info] Extracted extension to /home/kelper/.vscode-oss/extensions/.d528f304-d324-4ca6-92fb-e10c1349e813: ritwickdey.liveserver
+2023-08-27 11:37:41.724 [info] Renamed to /home/kelper/.vscode-oss/extensions/ritwickdey.liveserver-5.7.9-universal
+2023-08-27 11:37:41.733 [info] Extracting extension completed. ritwickdey.liveserver
+2023-08-27 11:37:41.772 [info] Extension installed successfully: ritwickdey.liveserver
+2023-08-27 11:37:48.597 [info] Extension signature verification is not done: yandeu.five-server
+2023-08-27 11:37:54.896 [info] Extracted extension to /home/kelper/.vscode-oss/extensions/.d2078f5f-f946-41a1-9f08-370ae6a44d98: yandeu.five-server
+2023-08-27 11:37:54.898 [info] Renamed to /home/kelper/.vscode-oss/extensions/yandeu.five-server-0.2.3-universal
+2023-08-27 11:37:54.906 [info] Extracting extension completed. yandeu.five-server
+2023-08-27 11:37:54.949 [info] Extension installed successfully: yandeu.five-server
+2023-08-27 11:38:20.367 [info] Extension signature verification is not done: octref.vetur
+2023-08-27 11:38:39.463 [info] Extracted extension to /home/kelper/.vscode-oss/extensions/.fa9b5fce-d48d-4b63-9d25-37fa25b19e9c: octref.vetur
+2023-08-27 11:38:39.478 [info] Renamed to /home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal
+2023-08-27 11:38:39.486 [info] Extracting extension completed. octref.vetur
+2023-08-27 11:38:39.526 [info] Extension installed successfully: octref.vetur
+2023-08-27 12:06:39.415 [info] Getting Manifest... glenn2223.live-sass
+2023-08-27 12:06:39.709 [info] Installing extension: glenn2223.live-sass
+2023-08-27 12:06:46.352 [info] Extension signature verification is not done: glenn2223.live-sass
+2023-08-27 12:06:46.615 [info] Extracted extension to /home/kelper/.vscode-oss/extensions/.1b37fc50-5d44-4cb7-ab74-66f0ce645e90: glenn2223.live-sass
+2023-08-27 12:06:46.628 [info] Renamed to /home/kelper/.vscode-oss/extensions/glenn2223.live-sass-6.1.1-universal
+2023-08-27 12:06:46.655 [info] Extracting extension completed. glenn2223.live-sass
+2023-08-27 12:06:46.702 [info] Extension installed successfully: glenn2223.live-sass
+2023-08-27 19:50:41.513 [info] Getting Manifest... mobalic.jetbrains-dark-theme
+2023-08-27 19:50:41.888 [info] Installing extension: mobalic.jetbrains-dark-theme
+2023-08-27 19:50:44.894 [info] Extension signature verification is not done: mobalic.jetbrains-dark-theme
+2023-08-27 19:50:44.950 [info] Extracted extension to /home/kelper/.vscode-oss/extensions/.a65e8eca-1858-47ac-a3a9-809d2145e6f3: mobalic.jetbrains-dark-theme
+2023-08-27 19:50:44.961 [info] Renamed to /home/kelper/.vscode-oss/extensions/mobalic.jetbrains-dark-theme-3.1.0-universal
+2023-08-27 19:50:44.965 [info] Extracting extension completed. mobalic.jetbrains-dark-theme
+2023-08-27 19:50:44.987 [info] Extension installed successfully: mobalic.jetbrains-dark-theme
+2023-08-27 19:54:28.439 [info] Getting Manifest... mobalic.jetbrains-new-dark
+2023-08-27 19:54:29.842 [info] Installing extension: mobalic.jetbrains-new-dark
+2023-08-27 19:54:33.306 [info] Extension signature verification is not done: mobalic.jetbrains-new-dark
+2023-08-27 19:54:33.357 [info] Extracted extension to /home/kelper/.vscode-oss/extensions/.0b882f03-43b9-4c4b-81fa-2a8128efc760: mobalic.jetbrains-new-dark
+2023-08-27 19:54:33.363 [info] Renamed to /home/kelper/.vscode-oss/extensions/mobalic.jetbrains-new-dark-0.0.1-universal
+2023-08-27 19:54:33.366 [info] Extracting extension completed. mobalic.jetbrains-new-dark
+2023-08-27 19:54:33.410 [info] Extension installed successfully: mobalic.jetbrains-new-dark

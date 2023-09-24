@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script type="module">
+        import { createApp, ref } from 'vue'
+        
+        createApp({
+          setup() {
+            const text = ref('')
+        
+            function onInput(e) {
+              text.value = e.target.value
+            }
+        
+            return {
+              text,
+              onInput
+            }
+          }
+        }).mount('#app')
+        </script>
+        
+        <div id="app">
+          <input :value="text" @input="onInput" placeholder="Type here">
+          <p>{{text}}</p>
+        </div>
+</body>
+</html>

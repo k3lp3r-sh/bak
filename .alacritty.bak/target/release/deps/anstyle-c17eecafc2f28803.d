@@ -1,0 +1,12 @@
+/home/kelper/alacritty/target/release/deps/anstyle-c17eecafc2f28803.rmeta: /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/lib.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/macros.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/color.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/effect.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/reset.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/style.rs
+
+/home/kelper/alacritty/target/release/deps/libanstyle-c17eecafc2f28803.rlib: /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/lib.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/macros.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/color.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/effect.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/reset.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/style.rs
+
+/home/kelper/alacritty/target/release/deps/anstyle-c17eecafc2f28803.d: /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/lib.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/macros.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/color.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/effect.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/reset.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/style.rs
+
+/home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/lib.rs:
+/home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/macros.rs:
+/home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/color.rs:
+/home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/effect.rs:
+/home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/reset.rs:
+/home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/style.rs:

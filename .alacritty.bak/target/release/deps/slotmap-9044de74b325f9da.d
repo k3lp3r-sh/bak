@@ -1,0 +1,12 @@
+/home/kelper/alacritty/target/release/deps/slotmap-9044de74b325f9da.rmeta: /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.6/src/lib.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.6/src/basic.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.6/src/dense.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.6/src/hop.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.6/src/secondary.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.6/src/sparse_secondary.rs
+
+/home/kelper/alacritty/target/release/deps/libslotmap-9044de74b325f9da.rlib: /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.6/src/lib.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.6/src/basic.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.6/src/dense.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.6/src/hop.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.6/src/secondary.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.6/src/sparse_secondary.rs
+
+/home/kelper/alacritty/target/release/deps/slotmap-9044de74b325f9da.d: /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.6/src/lib.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.6/src/basic.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.6/src/dense.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.6/src/hop.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.6/src/secondary.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.6/src/sparse_secondary.rs
+
+/home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.6/src/lib.rs:
+/home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.6/src/basic.rs:
+/home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.6/src/dense.rs:
+/home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.6/src/hop.rs:
+/home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.6/src/secondary.rs:
+/home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/slotmap-1.0.6/src/sparse_secondary.rs:

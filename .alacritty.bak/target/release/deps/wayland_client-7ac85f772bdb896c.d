@@ -1,0 +1,11 @@
+/home/kelper/alacritty/target/release/deps/wayland_client-7ac85f772bdb896c.rmeta: /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-client-0.30.2/src/lib.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-client-0.30.2/src/conn.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-client-0.30.2/src/event_queue.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-client-0.30.2/src/globals.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-client-0.30.2/src/calloop.rs
+
+/home/kelper/alacritty/target/release/deps/libwayland_client-7ac85f772bdb896c.rlib: /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-client-0.30.2/src/lib.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-client-0.30.2/src/conn.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-client-0.30.2/src/event_queue.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-client-0.30.2/src/globals.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-client-0.30.2/src/calloop.rs
+
+/home/kelper/alacritty/target/release/deps/wayland_client-7ac85f772bdb896c.d: /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-client-0.30.2/src/lib.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-client-0.30.2/src/conn.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-client-0.30.2/src/event_queue.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-client-0.30.2/src/globals.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-client-0.30.2/src/calloop.rs
+
+/home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-client-0.30.2/src/lib.rs:
+/home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-client-0.30.2/src/conn.rs:
+/home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-client-0.30.2/src/event_queue.rs:
+/home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-client-0.30.2/src/globals.rs:
+/home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wayland-client-0.30.2/src/calloop.rs:

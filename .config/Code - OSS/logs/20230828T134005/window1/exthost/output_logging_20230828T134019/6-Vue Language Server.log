@@ -1,0 +1,82 @@
+Vetur initialized
+[INFO ] Loaded bundled typescript@4.9.5.
+[INFO ] Loaded bundled prettier.
+[INFO ] Loaded bundled @starptech/prettyhtml.
+[INFO ] Loaded bundled prettier-eslint.
+[INFO ] Loaded bundled prettier-tslint.
+[INFO ] Loaded bundled stylus-supremacy.
+[INFO ] Loaded bundled @prettier/plugin-pug.
+[Error - 16:35:12] Error: Can't find package.json in project
+    at inferVueVersion (/home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/server/dist/vls.js:667:3056)
+    at Object.getVueVersion (/home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/server/dist/vls.js:895:3207)
+    at getServiceHost (/home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/server/dist/vls.js:888:568)
+    at hb.init (/home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/server/dist/vls.js:895:1259)
+    at createProjectService (/home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/server/dist/vls.js:895:8486)
+    at _T.getProjectService (/home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/server/dist/vls.js:896:10802)
+    at async _T.onDocumentSymbol (/home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/server/dist/vls.js:896:15856)
+[Error - 16:35:13] Error: Can't find package.json in project
+    at inferVueVersion (/home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/server/dist/vls.js:667:3056)
+    at Object.getVueVersion (/home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/server/dist/vls.js:895:3207)
+    at F (/home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/server/dist/vls.js:888:781)
+    at getServiceHost (/home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/server/dist/vls.js:888:655)
+    at hb.init (/home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/server/dist/vls.js:895:1259)
+    at createProjectService (/home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/server/dist/vls.js:895:8486)
+    at _T.getProjectService (/home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/server/dist/vls.js:896:10802)
+    at async _T.onDocumentSymbol (/home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/server/dist/vls.js:896:15856)
+[Error - 16:35:13] Error: Can't find package.json in project
+    at inferVueVersion (/home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/server/dist/vls.js:667:3056)
+    at Object.getVueVersion (/home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/server/dist/vls.js:895:3207)
+    at new HTMLMode (/home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/server/dist/vls.js:757:1636)
+    at new VueHTMLMode (/home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/server/dist/vls.js:767:3668)
+    at hb.init (/home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/server/dist/vls.js:895:1457)
+    at createProjectService (/home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/server/dist/vls.js:895:8486)
+    at _T.getProjectService (/home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/server/dist/vls.js:896:10802)
+    at async _T.onDocumentSymbol (/home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/server/dist/vls.js:896:15856)
+DeprecationWarning: 'createIdentifier' has been deprecated since v4.0.0. Use the appropriate method on 'ts.factory' or the 'factory' supplied by your transformation context instead.
+DeprecationWarning: 'createObjectLiteralExpression' has been deprecated since v4.0.0. Use the appropriate method on 'ts.factory' or the 'factory' supplied by your transformation context instead.
+DeprecationWarning: 'createCallExpression' has been deprecated since v4.0.0. Use the appropriate method on 'ts.factory' or the 'factory' supplied by your transformation context instead.
+[Error - 16:35:21] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 17:21:10] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 17:21:11] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 17:21:16] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 17:21:16] Request textDocument/semanticTokens/range failed.
+  Message: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 17:21:23] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 17:21:23] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 17:21:28] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 17:21:28] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 17:21:29] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 17:21:29] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 17:21:34] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 17:22:11] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 17:30:24] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 
+[Error - 17:30:37] Request textDocument/semanticTokens/full failed.
+  Message: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+  Code: -32603 

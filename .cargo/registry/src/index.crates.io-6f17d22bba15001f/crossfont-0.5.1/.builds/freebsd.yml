@@ -1,0 +1,30 @@
+image: freebsd/latest
+
+packages:
+  - devel/cmake
+  - devel/pkgconf
+  - print/freetype2
+  - x11-fonts/fontconfig
+  - x11-fonts/dejavu
+
+sources:
+  - https://github.com/alacritty/crossfont
+
+environment:
+  PATH: /home/build/.cargo/bin:/bin:/usr/bin:/usr/local/bin
+
+tasks:
+  - rustup: |
+      curl https://sh.rustup.rs -sSf | sh -s -- -y --default-toolchain stable --profile minimal
+  - test: |
+      cd crossfont
+      cargo test
+  - oldstable: |
+      cd crossfont
+      rustup toolchain install --profile minimal 1.56.0
+      rustup default 1.56.0
+      cargo test
+  - clippy: |
+      cd crossfont
+      rustup component add clippy
+      cargo clippy --all-targets

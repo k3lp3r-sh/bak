@@ -1,0 +1,11 @@
+/home/kelper/alacritty/target/release/deps/anstyle_parse-b0d95bab25deb30a.rmeta: /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.0/src/lib.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.0/src/params.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.0/src/state/mod.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.0/src/state/definitions.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.0/src/state/table.rs
+
+/home/kelper/alacritty/target/release/deps/libanstyle_parse-b0d95bab25deb30a.rlib: /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.0/src/lib.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.0/src/params.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.0/src/state/mod.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.0/src/state/definitions.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.0/src/state/table.rs
+
+/home/kelper/alacritty/target/release/deps/anstyle_parse-b0d95bab25deb30a.d: /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.0/src/lib.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.0/src/params.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.0/src/state/mod.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.0/src/state/definitions.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.0/src/state/table.rs
+
+/home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.0/src/lib.rs:
+/home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.0/src/params.rs:
+/home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.0/src/state/mod.rs:
+/home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.0/src/state/definitions.rs:
+/home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.0/src/state/table.rs:

@@ -1,0 +1,43 @@
+2023-08-27 11:31:07.581 [info] Extension host with pid 5350 started
+2023-08-27 11:31:08.374 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-08-27 11:31:08.901 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-08-27 11:31:08.971 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-08-27 11:31:09.371 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-08-27 11:31:10.274 [info] Eager extensions activated
+2023-08-27 11:31:11.628 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-08-27 11:31:11.692 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-08-27 11:35:17.089 [info] ExtensionService#_doActivateExtension Vue.volar, startup: false, activationEvent: 'onLanguage:plaintext'
+2023-08-27 11:36:01.424 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: '*'
+2023-08-27 11:36:34.761 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: false, activationEvent: '*'
+2023-08-27 11:37:02.305 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2023-08-27 11:37:06.059 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: false, activationEvent: '*'
+2023-08-27 11:37:42.726 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2023-08-27 11:37:56.000 [info] ExtensionService#_doActivateExtension yandeu.five-server, startup: false, activationEvent: 'onStartupFinished'
+2023-08-27 19:38:35.268 [info] Extension host terminating: renderer closed the MessagePort
+2023-08-27 19:38:35.450 [info] Extension host with pid 5350 exiting with code 0
+2023-08-27 19:38:44.134 [info] Extension host with pid 7502 started
+2023-08-27 19:38:44.135 [info] Skipping acquiring lock for /home/kelper/.config/Code - OSS/User/workspaceStorage/4ae519a839075cdbe8d59062fb1db58e.
+2023-08-27 19:38:44.802 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2023-08-27 19:38:44.814 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2023-08-27 19:38:44.833 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2023-08-27 19:38:45.240 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-08-27 19:38:45.959 [info] Eager extensions activated
+2023-08-27 19:38:46.056 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-08-27 19:38:46.084 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-08-27 19:38:46.172 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2023-08-27 19:39:17.379 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2023-08-27 19:39:17.612 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: '*'
+2023-08-27 19:39:17.730 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2023-08-27 19:39:17.758 [info] ExtensionService#_doActivateExtension yandeu.five-server, startup: false, activationEvent: 'onStartupFinished'
+2023-08-27 19:39:38.421 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-08-27 19:39:38.904 [info] ExtensionService#_doActivateExtension Vue.volar, startup: false, activationEvent: 'onLanguage:html'
+2023-08-27 19:39:39.119 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-08-27 19:39:41.435 [error] [ecmel.vscode-html-css] provider FAILED
+2023-08-27 19:39:41.440 [error] undefined
+2023-08-27 19:39:41.489 [error] [ecmel.vscode-html-css] provider FAILED
+2023-08-27 19:39:41.489 [error] undefined
+2023-08-27 19:39:58.110 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2023-08-27 19:40:13.942 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2023-08-27 19:40:37.308 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-08-27 19:47:26.123 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2023-08-27 19:47:26.260 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'

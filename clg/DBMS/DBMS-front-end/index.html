@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- <script src="App.vue"></script> -->
+        
+    <div id="app">
+        <input v-model="text" placeholder="Type here">
+        <p>{{text}}</p>
+    </div><datagrid></datagrid>
+    
+    <div> 
+        <script src="https://cdn.jsdelivr.net/npm/vue@3.3.4/dist/vue.global.js"></script>
+        <script>
+            const app = Vue.createApp({
+                data() {
+                    return {
+                        text: ''
+                    };
+                },
+                methods: {
+                    onInput(event) {
+                        this.text = event.target.value;
+                    }
+                }
+            });
+    
+            app.mount('#app');
+        </script>
+        <!-- <script>
+            new Vue({
+                el: '#app',
+                data: {
+                    text: ''
+                },
+                methods: {
+                    onInput(event) {
+                        this.text = event.target.value;
+                    }
+                }
+            });
+        </script> -->
+    </div>
+</body>
+</html>

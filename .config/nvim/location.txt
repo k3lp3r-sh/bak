@@ -1,0 +1,71 @@
+.
+├── config.ld
+├── init.lua
+├── LICENSE
+├── location.txt
+└── lua
+    ├── astronvim
+    │   ├── autocmds.lua
+    │   ├── bootstrap.lua
+    │   ├── health.lua
+    │   ├── icons
+    │   │   ├── nerd_font.lua
+    │   │   └── text.lua
+    │   ├── lazy.lua
+    │   ├── mappings.lua
+    │   ├── options.lua
+    │   └── utils
+    │       ├── buffer.lua
+    │       ├── ffi.lua
+    │       ├── git.lua
+    │       ├── init.lua
+    │       ├── lsp.lua
+    │       ├── mason.lua
+    │       ├── status
+    │       │   ├── component.lua
+    │       │   ├── condition.lua
+    │       │   ├── env.lua
+    │       │   ├── heirline.lua
+    │       │   ├── hl.lua
+    │       │   ├── init.lua
+    │       │   ├── provider.lua
+    │       │   └── utils.lua
+    │       ├── status.lua
+    │       ├── ui.lua
+    │       └── updater.lua
+    ├── lazy_snapshot.lua
+    ├── plugins
+    │   ├── alpha.lua
+    │   ├── cmp.lua
+    │   ├── configs
+    │   │   ├── alpha.lua
+    │   │   ├── cmp-dap.lua
+    │   │   ├── guess-indent.lua
+    │   │   ├── heirline.lua
+    │   │   ├── lspconfig.lua
+    │   │   ├── lspkind.lua
+    │   │   ├── luasnip.lua
+    │   │   ├── mason-lspconfig.lua
+    │   │   ├── mason-null-ls.lua
+    │   │   ├── mason-nvim-dap.lua
+    │   │   ├── mason.lua
+    │   │   ├── notify.lua
+    │   │   ├── nvim-autopairs.lua
+    │   │   ├── nvim-dap-ui.lua
+    │   │   ├── nvim-treesitter.lua
+    │   │   ├── nvim-web-devicons.lua
+    │   │   ├── telescope.lua
+    │   │   └── which-key.lua
+    │   ├── core.lua
+    │   ├── dap.lua
+    │   ├── git.lua
+    │   ├── heirline.lua
+    │   ├── lsp.lua
+    │   ├── mason.lua
+    │   ├── neo-tree.lua
+    │   ├── telescope.lua
+    │   ├── treesitter.lua
+    │   └── ui.lua
+    └── resession
+        └── extensions
+            └── astronvim.lua

@@ -1,0 +1,34 @@
+image: archlinux
+
+packages:
+  - pkg-config
+  - cmake
+  - freetype2
+  - fontconfig
+  - dina-font
+
+sources:
+  - https://github.com/alacritty/crossfont
+
+environment:
+  PATH: /home/build/.cargo/bin:/usr/bin/
+
+tasks:
+  - rustup: |
+      curl https://sh.rustup.rs -sSf | sh -s -- -y --default-toolchain stable --profile minimal
+  - test: |
+      cd crossfont
+      cargo test
+  - rustfmt: |
+      cd crossfont
+      rustup toolchain install nightly -c rustfmt
+      cargo +nightly fmt -- --check
+  - oldstable: |
+      cd crossfont
+      rustup toolchain install --profile minimal 1.56.0
+      rustup default 1.56.0
+      cargo test
+  - clippy: |
+      cd crossfont
+      rustup component add clippy
+      cargo clippy --all-targets

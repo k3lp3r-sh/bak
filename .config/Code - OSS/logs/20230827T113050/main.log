@@ -1,0 +1,9 @@
+2023-08-27 11:30:51.272 [info] update#ctor - updates are disabled as there is no update URL
+2023-08-27 11:31:05.343 [warning] No ptyHost heartbeat after 6 seconds
+2023-08-27 11:31:10.349 [error] No ptyHost heartbeat after 12 seconds
+2023-08-27 12:11:46.970 [warning] No ptyHost heartbeat after 6 seconds
+2023-08-27 12:27:19.008 [warning] No ptyHost heartbeat after 6 seconds
+2023-08-27 13:42:23.939 [warning] No ptyHost heartbeat after 6 seconds
+2023-08-27 19:11:56.127 [warning] No ptyHost heartbeat after 6 seconds
+2023-08-27 19:38:35.483 [info] Extension host with pid 5350 exited with code: 0, signal: unknown.
+2023-08-27 20:00:54.585 [warning] No ptyHost heartbeat after 6 seconds

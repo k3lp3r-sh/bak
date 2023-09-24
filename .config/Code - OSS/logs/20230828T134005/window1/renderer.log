@@ -1,0 +1,172 @@
+2023-08-28 13:40:17.318 [warning] [Vue.volar]: Cannot register 'typescript.tsdk'. This property is already registered.
+2023-08-28 13:40:31.251 [info] [perf] Render performance baseline is 349ms
+2023-08-28 13:40:55.166 [info] The pty host became responsive again
+2023-08-28 16:35:21.340 [error] Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags'): Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+    at /home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/dist/vueMain.js:1:62478
+    at /home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/dist/vueMain.js:1:62772
+    at Immediate.<anonymous> (/home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/dist/vueMain.js:1:63137)
+    at processImmediate (node:internal/timers:466:21)
+2023-08-28 16:36:33.747 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-08-28 16:36:34.302 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-08-28 16:36:38.430 [warning] UNRESPONSIVE extension host: 'yandeu.five-server' took 61.337741400826424% of 347.501ms, saved PROFILE here: 'file:///tmp/exthost-c1e981.cpuprofile'
+2023-08-28 16:38:00.448 [error] An unknown error occurred. Please consult the log for more details.
+2023-08-28 17:04:14.179 [error] An unknown error occurred. Please consult the log for more details.
+2023-08-28 17:08:55.014 [error] An unknown error occurred. Please consult the log for more details.
+2023-08-28 17:09:06.495 [error] An unknown error occurred. Please consult the log for more details.
+2023-08-28 17:09:09.173 [error] An unknown error occurred. Please consult the log for more details.
+2023-08-28 17:09:11.193 [error] An unknown error occurred. Please consult the log for more details.
+2023-08-28 17:09:15.220 [error] An unknown error occurred. Please consult the log for more details.
+2023-08-28 17:11:26.440 [error] An unknown error occurred. Please consult the log for more details.
+2023-08-28 17:14:20.466 [error] An unknown error occurred. Please consult the log for more details.
+2023-08-28 17:21:10.775 [error] Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags'): Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+    at /home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/dist/vueMain.js:1:62478
+    at /home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/dist/vueMain.js:1:62772
+    at Immediate.<anonymous> (/home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/dist/vueMain.js:1:63137)
+    at processImmediate (node:internal/timers:466:21)
+2023-08-28 17:21:11.243 [error] Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags'): Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+    at /home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/dist/vueMain.js:1:62478
+    at /home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/dist/vueMain.js:1:62772
+    at Immediate.<anonymous> (/home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/dist/vueMain.js:1:63137)
+    at processImmediate (node:internal/timers:466:21)
+2023-08-28 17:21:16.596 [error] Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags'): Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+    at /home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/dist/vueMain.js:1:62478
+    at /home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/dist/vueMain.js:1:62772
+    at Immediate.<anonymous> (/home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/dist/vueMain.js:1:63137)
+    at processImmediate (node:internal/timers:466:21)
+2023-08-28 17:21:16.651 [error] Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags'): Error: Request textDocument/semanticTokens/range failed with message: Cannot read properties of undefined (reading 'flags')
+    at /home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/dist/vueMain.js:1:62478
+    at /home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/dist/vueMain.js:1:62772
+    at Immediate.<anonymous> (/home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/dist/vueMain.js:1:63137)
+    at processImmediate (node:internal/timers:466:21)
+2023-08-28 17:21:23.312 [error] Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags'): Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+    at /home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/dist/vueMain.js:1:62478
+    at /home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/dist/vueMain.js:1:62772
+    at Immediate.<anonymous> (/home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/dist/vueMain.js:1:63137)
+    at processImmediate (node:internal/timers:466:21)
+2023-08-28 17:21:28.064 [error] Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags'): Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+    at /home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/dist/vueMain.js:1:62478
+    at /home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/dist/vueMain.js:1:62772
+    at Immediate.<anonymous> (/home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/dist/vueMain.js:1:63137)
+    at processImmediate (node:internal/timers:466:21)
+2023-08-28 17:21:29.180 [error] Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags'): Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+    at /home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/dist/vueMain.js:1:62478
+    at /home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/dist/vueMain.js:1:62772
+    at Immediate.<anonymous> (/home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/dist/vueMain.js:1:63137)
+    at processImmediate (node:internal/timers:466:21)
+2023-08-28 17:21:34.122 [error] Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags'): Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+    at /home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/dist/vueMain.js:1:62478
+    at /home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/dist/vueMain.js:1:62772
+    at Immediate.<anonymous> (/home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/dist/vueMain.js:1:63137)
+    at processImmediate (node:internal/timers:466:21)
+2023-08-28 17:22:11.170 [error] Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags'): Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+    at /home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/dist/vueMain.js:1:62478
+    at /home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/dist/vueMain.js:1:62772
+    at Immediate.<anonymous> (/home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/dist/vueMain.js:1:63137)
+    at processImmediate (node:internal/timers:466:21)
+2023-08-28 17:30:24.634 [error] Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags'): Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+    at /home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/dist/vueMain.js:1:62478
+    at /home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/dist/vueMain.js:1:62772
+    at Immediate.<anonymous> (/home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/dist/vueMain.js:1:63137)
+    at processImmediate (node:internal/timers:466:21)
+2023-08-28 17:30:37.823 [error] Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags'): Error: Request textDocument/semanticTokens/full failed with message: Cannot read properties of undefined (reading 'flags')
+    at /home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/dist/vueMain.js:1:62478
+    at /home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/dist/vueMain.js:1:62772
+    at Immediate.<anonymous> (/home/kelper/.vscode-oss/extensions/octref.vetur-0.37.3-universal/dist/vueMain.js:1:63137)
+    at processImmediate (node:internal/timers:466:21)
+2023-08-28 17:32:08.673 [error] An unknown error occurred. Please consult the log for more details.
+2023-08-28 19:03:03.369 [error] Cannot read properties of undefined (reading 'find'): TypeError: Cannot read properties of undefined (reading 'find')
+    at t.DefaultCompletionItemProvider.b (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:130379)
+    at t.DefaultCompletionItemProvider.provideCompletionItems (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:128898)
+    at q.provideCompletionItems (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:101:51252)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:101:72248
+    at oe.s (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:101:63904)
+    at oe.$provideCompletionItems (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:101:72235)
+    at s.N (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:111:11717)
+    at s.M (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:111:11435)
+    at s.H (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:111:10477)
+    at s.G (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:111:9494)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:111:8282
+    at b.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+    at deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+    at n.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+    at p.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:73:14783)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:127:32461
+    at b.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+    at deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+    at n.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+    at p.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:73:14783)
+    at MessagePortMain.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:127:30587)
+    at MessagePortMain.emit (node:events:513:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367)
+2023-08-28 19:03:06.538 [error] Cannot read properties of undefined (reading 'find'): TypeError: Cannot read properties of undefined (reading 'find')
+    at t.DefaultCompletionItemProvider.b (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:130379)
+    at t.DefaultCompletionItemProvider.provideCompletionItems (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:128898)
+    at q.provideCompletionItems (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:101:51252)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:101:72248
+    at oe.s (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:101:63904)
+    at oe.$provideCompletionItems (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:101:72235)
+    at s.N (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:111:11717)
+    at s.M (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:111:11435)
+    at s.H (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:111:10477)
+    at s.G (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:111:9494)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:111:8282
+    at b.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+    at deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+    at n.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+    at p.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:73:14783)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:127:32461
+    at b.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+    at deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+    at n.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+    at p.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:73:14783)
+    at MessagePortMain.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:127:30587)
+    at MessagePortMain.emit (node:events:513:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367)
+2023-08-28 19:03:07.910 [error] Cannot read properties of undefined (reading 'find'): TypeError: Cannot read properties of undefined (reading 'find')
+    at t.DefaultCompletionItemProvider.b (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:130379)
+    at t.DefaultCompletionItemProvider.provideCompletionItems (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:128898)
+    at q.provideCompletionItems (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:101:51252)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:101:72248
+    at oe.s (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:101:63904)
+    at oe.$provideCompletionItems (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:101:72235)
+    at s.N (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:111:11717)
+    at s.M (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:111:11435)
+    at s.H (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:111:10477)
+    at s.G (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:111:9494)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:111:8282
+    at b.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+    at deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+    at n.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+    at p.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:73:14783)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:127:32461
+    at b.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+    at deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+    at n.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+    at p.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:73:14783)
+    at MessagePortMain.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:127:30587)
+    at MessagePortMain.emit (node:events:513:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367)
+2023-08-28 19:03:10.255 [error] Cannot read properties of undefined (reading 'find'): TypeError: Cannot read properties of undefined (reading 'find')
+    at t.DefaultCompletionItemProvider.b (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:130379)
+    at t.DefaultCompletionItemProvider.provideCompletionItems (/usr/lib/code/extensions/emmet/dist/node/emmetNodeMain.js:1:128898)
+    at q.provideCompletionItems (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:101:51252)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:101:72248
+    at oe.s (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:101:63904)
+    at oe.$provideCompletionItems (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:101:72235)
+    at s.N (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:111:11717)
+    at s.M (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:111:11435)
+    at s.H (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:111:10477)
+    at s.G (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:111:9494)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:111:8282
+    at b.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+    at deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+    at n.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+    at p.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:73:14783)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:127:32461
+    at b.invoke (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+    at deliver (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+    at n.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+    at p.fire (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:73:14783)
+    at MessagePortMain.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:127:30587)
+    at MessagePortMain.emit (node:events:513:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367)

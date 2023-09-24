@@ -1,0 +1,23 @@
+<script type="module">
+    import { createApp, ref } from 'vue'
+    
+    createApp({
+      setup() {
+        const text = ref('')
+    
+        function onInput(e) {
+          text.value = e.target.value
+        }
+    
+        return {
+          text,
+          onInput
+        }
+      }
+    }).mount('#app')
+    </script>
+    
+    <div id="app">
+      <input :value="text" @input="onInput" placeholder="Type here">
+      <p>{{ text }}</p>
+    </div>

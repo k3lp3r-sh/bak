@@ -1,0 +1,9 @@
+{
+    "editor.linkedEditing": true,
+    "window.zoomLevel": 1,
+    "editor.fontFamily": "'JetBrains Mono', 'Droid Sans Mono', 'monospace', monospace",
+    "editor.fontSize": 18,
+    "editor.fontLigatures": false,
+    "workbench.colorTheme": "JetBrains New Dark",
+    "liveServer.settings.donotVerifyTags": true
+}

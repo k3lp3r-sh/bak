@@ -1,0 +1,3 @@
+2023-08-04 15:44:31.889 [info] Started initializing default profile extensions in extensions installation folder. file:///home/kelper/.vscode-oss/extensions
+2023-08-04 15:44:35.099 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/kelper/.vscode-oss/extensions Unable to create file 'vscode-userdata:/home/kelper/.vscode-oss/extensions/extensions.json' that already exists when overwrite flag is not set
+2023-08-04 15:44:35.102 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/kelper/.vscode-oss/extensions

@@ -1,0 +1,11 @@
+/home/kelper/alacritty/target/release/deps/copypasta-27a2fc79312260c3.rmeta: /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/copypasta-0.8.2/src/lib.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/copypasta-0.8.2/src/common.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/copypasta-0.8.2/src/wayland_clipboard.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/copypasta-0.8.2/src/x11_clipboard.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/copypasta-0.8.2/src/nop_clipboard.rs
+
+/home/kelper/alacritty/target/release/deps/libcopypasta-27a2fc79312260c3.rlib: /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/copypasta-0.8.2/src/lib.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/copypasta-0.8.2/src/common.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/copypasta-0.8.2/src/wayland_clipboard.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/copypasta-0.8.2/src/x11_clipboard.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/copypasta-0.8.2/src/nop_clipboard.rs
+
+/home/kelper/alacritty/target/release/deps/copypasta-27a2fc79312260c3.d: /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/copypasta-0.8.2/src/lib.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/copypasta-0.8.2/src/common.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/copypasta-0.8.2/src/wayland_clipboard.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/copypasta-0.8.2/src/x11_clipboard.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/copypasta-0.8.2/src/nop_clipboard.rs
+
+/home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/copypasta-0.8.2/src/lib.rs:
+/home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/copypasta-0.8.2/src/common.rs:
+/home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/copypasta-0.8.2/src/wayland_clipboard.rs:
+/home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/copypasta-0.8.2/src/x11_clipboard.rs:
+/home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/copypasta-0.8.2/src/nop_clipboard.rs:

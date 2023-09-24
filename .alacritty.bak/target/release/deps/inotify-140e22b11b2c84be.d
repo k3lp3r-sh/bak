@@ -1,0 +1,12 @@
+/home/kelper/alacritty/target/release/deps/inotify-140e22b11b2c84be.rmeta: /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.9.6/src/lib.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.9.6/src/events.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.9.6/src/fd_guard.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.9.6/src/inotify.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.9.6/src/util.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.9.6/src/watches.rs
+
+/home/kelper/alacritty/target/release/deps/libinotify-140e22b11b2c84be.rlib: /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.9.6/src/lib.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.9.6/src/events.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.9.6/src/fd_guard.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.9.6/src/inotify.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.9.6/src/util.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.9.6/src/watches.rs
+
+/home/kelper/alacritty/target/release/deps/inotify-140e22b11b2c84be.d: /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.9.6/src/lib.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.9.6/src/events.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.9.6/src/fd_guard.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.9.6/src/inotify.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.9.6/src/util.rs /home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.9.6/src/watches.rs
+
+/home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.9.6/src/lib.rs:
+/home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.9.6/src/events.rs:
+/home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.9.6/src/fd_guard.rs:
+/home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.9.6/src/inotify.rs:
+/home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.9.6/src/util.rs:
+/home/kelper/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inotify-0.9.6/src/watches.rs:
